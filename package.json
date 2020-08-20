@@ -10,7 +10,7 @@
   "author": "Jean-Baptiste Pasquier",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^0.8.7",
+    "bcrypt": ">=5.5.0",
     "body-parser": "",
     "cors": "",
     "express": "",
